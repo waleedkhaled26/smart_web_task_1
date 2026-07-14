@@ -2,7 +2,7 @@
 
 ## Task Overview
 
-This task is a static CV web page for Waleed Khaled Mohammed Althumali. The goal was to convert the CV information into a clean one-page HTML document with a simple structure and no extra visual effects.
+This task is a static CV web page for ME. The goal was to convert the CV information into a clean one-page HTML document with a simple structure and no extra visual effects.
 
 ## Technologies Used
 
