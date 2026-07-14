@@ -1,32 +1,42 @@
-# إنشاء صفحة سيرة ذاتية باستخدام HTML5
+# Task 1 - HTML CV Page
 
-## تعريف المهمة
+## Task Overview
 
-المطلوب في هذه المهمة هو إنشاء صفحة واحدة تعرض السيرة الذاتية الخاصة بـ Waleed Khaled Mohammed Althumali بشكل بسيط ومنظم.
+This task is a static CV web page for Waleed Khaled Mohammed Althumali. The goal was to convert the CV information into a clean one-page HTML document with a simple structure and no extra visual effects.
 
-تم تنفيذ الصفحة باستخدام HTML5 فقط، بدون استخدام CSS أو JavaScript، وبدون إضافة تعليقات داخل الكود.
-
-## ما تم استخدامه في المهمة
+## Technologies Used
 
 - HTML5
-- المعلومات الشخصية والمهنية الخاصة بالسيرة الذاتية
-- ملف `cv.html` لعرض السيرة الذاتية
-- عناصر HTML الأساسية مثل العناوين، الفقرات، القوائم، والأقسام
+- Semantic HTML elements
+- Static web page structure
+- No CSS
+- No JavaScript
 
-## خطوات العمل بشكل مختصر
+## Technical Details
 
-1. قراءة معلومات السيرة الذاتية المتوفرة.
-2. تحديد الأقسام الأساسية مثل Profile وEducation وGraduation Project وTechnical Skills وAcademic Experience.
-3. إنشاء ملف `cv.html`.
-4. كتابة بيانات التواصل في أعلى الصفحة.
-5. ترتيب التعليم، المشروع، المهارات، والخبرة الأكاديمية داخل أقسام واضحة.
-6. التأكد من عدم استخدام CSS أو JavaScript.
-7. التأكد من أن الصفحة تحتوي على معلومات السيرة الذاتية المطلوبة فقط.
+The page is built as a single `cv.html` file. It uses standard HTML5 document structure with `header`, `main`, `section`, `article`, headings, paragraphs, and lists.
 
-## ملفات المشروع
+The content is organized into clear CV sections:
 
-- `cv.html`: صفحة السيرة الذاتية النهائية.
+- Contact information
+- Profile
+- Education
+- Graduation project
+- Technical skills
+- Academic experience
 
-## الخلاصة
+The implementation focuses on readability and clean document structure. No styling files, scripts, frameworks, or external libraries are used.
 
-تم إنشاء صفحة سيرة ذاتية بسيطة ومنظمة باستخدام HTML5 فقط، مع الاعتماد على معلومات Waleed Khaled Mohammed Althumali دون إضافة معلومات خارجية.
+## Abstract Steps
+
+1. Extract the required CV information.
+2. Organize the content into CV sections.
+3. Create a valid HTML5 document.
+4. Place contact details in the page header.
+5. Add education, project, skills, and academic experience sections.
+6. Keep the page static and lightweight.
+7. Avoid CSS, JavaScript, comments, and unrelated information.
+
+## Project File
+
+- `cv.html`: The final static CV page.
