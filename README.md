@@ -4,6 +4,8 @@
 
 This task is a static CV web page for ME. The goal was to convert the CV information into a clean one-page HTML document with a simple structure and no extra visual effects.
 
+page live link: https://waleedkhald26.fwh.is/cv.html
+
 ## Technologies Used
 
 - HTML5
